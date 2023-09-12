@@ -1,0 +1,10 @@
+.chatListContainer {
+    flex: 0 0 auto;
+    width: 300px;
+    background-color: #444;
+}
+
+.header {
+    padding-left: 10px;
+    margin-bottom: 20px;
+}

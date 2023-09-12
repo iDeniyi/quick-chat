@@ -1,0 +1,22 @@
+/* Home.module.css */
+.mainContainer {
+    display: flex;
+    height: 100vh;
+}
+
+/* .sidebarContainer {
+} */
+
+.chatContainer {
+    flex: 1 1 auto;
+    display: flex;
+}
+
+.chatList {
+    flex: 0 0 auto;
+    width: 300px;
+}
+
+.chatArea {
+    flex: 1 1 auto;
+}
